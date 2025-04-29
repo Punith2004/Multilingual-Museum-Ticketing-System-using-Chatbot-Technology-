@@ -1,0 +1,32 @@
+{
+    "visitor": {
+        "password": "museum2025",
+        "email": "N/A",
+        "phone": "N/A",
+        "dob": "N/A"
+    },
+    "punithyellanti": {
+        "password": "Punith@1102",
+        "email": "N/A",
+        "phone": "N/A",
+        "dob": "N/A"
+    },
+    "punithyellanti@gmail.com": {
+        "password": "Punith@1102",
+        "email": "punithyellanti@gmail.com",
+        "phone": "8328624807",
+        "dob": "2004-02-11"
+    },
+    "saketh@gmail.com": {
+        "password": "12345678",
+        "email": "saketh@gmail.com",
+        "phone": "1234567890",
+        "dob": "2005-04-07"
+    },
+    "vv7661@srmist.edu.in": {
+        "password": "789456123",
+        "email": "vv7661@srmist.edu.in",
+        "phone": "8328085380",
+        "dob": "2025-04-02"
+    }
+}
